@@ -1,0 +1,12 @@
+stopwatch/config.h
+
+build/
+stopwatch/build/
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
